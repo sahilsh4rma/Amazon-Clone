@@ -25,7 +25,7 @@ This project is a simple representation of an Amazon-like e-commerce website's f
 git clone https://github.com/sahilsh4rma/Amazon-Clone.git
 \`\`\`
 
-2. Open \`index.html\` in your preferre web browser.
+2. Open \`index.html\` in your preferred web browser.
 
 ## Credits
 
